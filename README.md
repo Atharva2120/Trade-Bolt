@@ -1,2 +1,2 @@
-# Trade-Bolt
-Powering Your Trading
+# TradeBolt
+Powering Your Trading with Machine Learning
